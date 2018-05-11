@@ -1,4 +1,4 @@
-#include "MediaFile.h"
+﻿#include "MediaFile.h"
 
 unsigned short MediaFile::getChannelNumber(void) { return 0; }
 unsigned int MediaFile::getSampleFrequency(void) { return 0; }
